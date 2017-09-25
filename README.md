@@ -27,7 +27,24 @@ When you struggle to understand a notion, I suggest you look for answers on the 
 - [Google](https://www.google.com/) - At the end, our best friend!
 
 ## Table of Contents
-Comming soon.
+- [General development](#general-development)
+  * [Tables](#tables)
+    + [Relationships](#relationships)
+- [X++](#x++)
+
+## General development
+### Tables
+#### Relationships
+> Kindly note that links in this section refers to AX 2012, but it does apply to 365 versions.
+Kindly table a look at the [official documentation](https://msdn.microsoft.com/en-us/library/hh803131.aspx).
+
+##### RelationType property
+See the [official documentation](https://msdn.microsoft.com/en-us/library/hh803131.aspx)
+
+What relation type should I choose?
+
+## X++
+Coming soon.
 
 ## Donate
 If this project helped you in any way and you feel like supporting me:
